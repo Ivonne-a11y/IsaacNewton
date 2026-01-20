@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+    background-color: #3F090A;
+    text-align: left;
+    text-decoration: underline;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: oblique;
+}
+table {
+    background-color: #1F0203;
+    color: #F9F9F9;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: left;
+}
